@@ -262,3 +262,18 @@ Caused by: java.net.ConnectException: HTTP connect timed out
 [30Apr2025 19:31:01.887] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [toolbelt:general,curios:main,ironchest:network,tombstone:tombstone_channel,spartanweaponry:network,mantle:network,carryon:carryonpackets,tconstruct:network,sophisticatedbackpacks:channel,securitycraft:securitycraft,sophisticatedcore:channel] rejected their client side version number
 [30Apr2025 19:31:01.890] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [30Apr2025 19:31:01.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e2ac587[id=<null>,name=TheBlackMen,properties={},legacy=false] (/127.55.193.42:52529) lost connection: Connection closed - mismatched mod channel list
+[30Apr2025 19:49:51.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36f8c2a6[id=<null>,name=TheBlackMen,properties={},legacy=false] (/127.55.193.42:46307) lost connection: Disconnected
+[30Apr2025 19:52:01.759] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32184b3b[id=<null>,name=TheBlackMen,properties={},legacy=false] (/127.55.193.42:41269) lost connection: Disconnected
+[30Apr2025 19:53:06.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Apr2025 19:53:06.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[30Apr2025 19:53:16.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Apr2025 19:53:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[30Apr2025 19:53:50.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44ed54bd[id=<null>,name=TheBlackMen,properties={},legacy=false] (/127.55.193.42:51185) lost connection: Disconnected
+[30Apr2025 19:55:30.625] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30Apr2025 19:55:30.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuelin500mf[/127.62.47.60:46997] logged in with entity id 217 at (-1268.023691998263, 63.0, -641.8575380111198)
+[30Apr2025 19:55:31.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf joined the game
+[30Apr2025 19:55:33.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[30Apr2025 19:56:25.966] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67af3bed[id=<null>,name=TheBlackMen,properties={},legacy=false] (/127.55.193.42:55013) lost connection: Disconnected
+[30Apr2025 19:56:29.623] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ac5bd72[id=<null>,name=TheBlackMen,properties={},legacy=false] (/127.55.193.42:44717) lost connection: Disconnected
+[30Apr2025 19:56:33.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:59843] logged in with entity id 529 at (0.5, 119.0, 0.5)
+[30Apr2025 19:56:33.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
