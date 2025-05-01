@@ -228,3 +228,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [01May2025 10:52:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
 [01May2025 10:53:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheBlackMen> zx99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 [01May2025 11:05:02.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/362, l='ServerLevel[world]', x=-5422.53, y=64.00, z=-924.70] died, message: 'Fisherman was slain by Zombie'
+[01May2025 11:09:19.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuelin500mf lost connection: Disconnected
+[01May2025 11:09:19.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf left the game
+[01May2025 11:09:27.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen lost connection: Disconnected
+[01May2025 11:09:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
