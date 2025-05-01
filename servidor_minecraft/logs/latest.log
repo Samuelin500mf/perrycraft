@@ -218,3 +218,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [01May2025 10:42:56.773] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
 [01May2025 10:42:59.387] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [01May2025 10:45:55.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[01May2025 10:47:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[01May2025 10:47:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Samuelin50/gamemod/gamemode creative Samuelin500mf<--[HERE]
+[01May2025 10:47:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Samuelin500mf's game mode to Creative Mode
+[01May2025 10:48:36.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen lost connection: Disconnected
+[01May2025 10:48:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
+[01May2025 10:49:00.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Samuelin500mf's game mode to Survival Mode
+[01May2025 10:52:48.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:38729] logged in with entity id 13988 at (-5429.312697858093, 62.9375, -1017.9838445110219)
+[01May2025 10:52:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
+[01May2025 10:53:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheBlackMen> zx99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
