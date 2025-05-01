@@ -203,3 +203,18 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [01May2025 10:20:30.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
 [01May2025 10:23:44.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:55105] logged in with entity id 7493 at (-4676.522512630468, 92.24764799082433, -1134.1360468438463)
 [01May2025 10:23:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
+[01May2025 10:26:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[01May2025 10:26:58.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...TheBlackMe/gamemode survival theBlackMen<--[HERE]
+[01May2025 10:27:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set TheBlackMen's game mode to Survival Mode
+[01May2025 10:28:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Ashes 'n Bones]
+[01May2025 10:30:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen has made the advancement [Ice Bucket Challenge]
+[01May2025 10:30:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen has made the advancement [Blunt-force Trauma]
+[01May2025 10:35:48.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen has made the advancement [Ambush]
+[01May2025 10:36:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Voluntary Exile]
+[01May2025 10:38:01.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Ambush]
+[01May2025 10:39:44.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen has reached the goal [Fortuitous Militia]
+[01May2025 10:42:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has reached the goal [Strong or Careful]
+[01May2025 10:42:56.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf fell from a high place
+[01May2025 10:42:56.773] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[01May2025 10:42:59.387] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01May2025 10:45:55.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
