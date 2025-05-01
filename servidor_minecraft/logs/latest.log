@@ -190,3 +190,16 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [01May2025 10:11:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [A Seedy Place]
 [01May2025 10:11:49.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen lost connection: Disconnected
 [01May2025 10:11:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
+[01May2025 10:14:43.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:43255] logged in with entity id 4459 at (-2711.5231158295383, 69.0, -1472.72457619784)
+[01May2025 10:14:43.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
+[01May2025 10:14:46.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[01May2025 10:16:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[01May2025 10:16:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...eBlackMen to Samuelin500mf<--[HERE]
+[01May2025 10:17:53.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: espectator
+[01May2025 10:17:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...espectator TheBlackMen<--[HERE]
+[01May2025 10:18:42.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set TheBlackMen's game mode to Spectator Mode
+[01May2025 10:19:08.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen moved too quickly! -10.30761290569535,0.0,1.7393551122486315
+[01May2025 10:20:30.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen lost connection: Disconnected
+[01May2025 10:20:30.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
+[01May2025 10:23:44.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:55105] logged in with entity id 7493 at (-4676.522512630468, 92.24764799082433, -1134.1360468438463)
+[01May2025 10:23:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
