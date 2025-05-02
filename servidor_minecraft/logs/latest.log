@@ -215,3 +215,25 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 18:36:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [What a Deal!]
 [02May2025 18:40:49.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAGO73_5 lost connection: Disconnected
 [02May2025 18:40:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 left the game
+[02May2025 19:12:46.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:39369] logged in with entity id 17512 at (-4686.612341416424, 68.0, -1389.9609143252521)
+[02May2025 19:12:46.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
+[02May2025 19:13:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Zombie
+[02May2025 19:13:40.144] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 19:13:41.379] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 19:16:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was shot by Skeleton
+[02May2025 19:16:29.282] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 19:16:29.404] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 19:27:29.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[02May2025 19:28:07.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[02May2025 19:28:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 19:28:49.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamemode spectator I.A.G.O73_5<--[HERE]
+[02May2025 19:29:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [Blunt-force Trauma]
+[02May2025 19:29:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Spectator Mode
+[02May2025 19:32:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 19:32:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GA/gamemode survival IAGO73_5<--[HERE]
+[02May2025 19:32:51.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Survival Mode
+[02May2025 19:37:33.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has reached the goal [Bone Crusher]
+[02May2025 19:37:39.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has reached the goal [Fortuitous Militia]
+[02May2025 19:38:44.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> DAW
+[02May2025 19:39:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzz
+[02May2025 19:40:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzzz
