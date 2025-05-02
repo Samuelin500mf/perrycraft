@@ -275,3 +275,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 19:58:31.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37821, l='ServerLevel[world]', x=-4631.70, y=67.00, z=-1417.53] died, message: 'Villager was slain by Zombie Villager'
 [02May2025 19:59:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [A Seedy Place]
 [02May2025 20:01:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [What a Deal!]
+[02May2025 20:04:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzz
+[02May2025 20:05:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was shot by Skeleton
+[02May2025 20:05:23.610] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[02May2025 20:05:25.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:10:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was blown up by Creeper
+[02May2025 20:10:44.014] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 20:10:45.346] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -4415,3 +4415,33 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 20:01:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [What a Deal!]
 [02May2025 20:01:35.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 20:01:35.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:02:22.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:02:24.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:02:25.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:03:43.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:03:43.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:03:46.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:04:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzz
+[02May2025 20:05:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was shot by Skeleton
+[02May2025 20:05:23.606] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuelin500mf was created at position [x:-5368, y:-47, z:-1014, dim:minecraft:overworld]
+[02May2025 20:05:23.610] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[02May2025 20:05:25.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:06:28.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:35.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:06:35.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:06:44.302] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.352] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.403] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.452] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.552] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:44.952] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:06:45.002] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02May2025 20:09:41.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 20:10:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was blown up by Creeper
+[02May2025 20:10:44.002] [Server thread/DEBUG] [tombstone/]: A new grave of the player IAGO73_5 was created at position [x:-4694, y:69, z:-1409, dim:minecraft:overworld]
+[02May2025 20:10:44.014] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 20:10:45.346] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:11:35.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:11:35.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

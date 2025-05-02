@@ -3027,6 +3027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-05-02 19:51:27 +0000"
@@ -3039,15 +3045,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2025-05-02 19:50:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-02 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
     },
     "done": true
   },
@@ -3078,6 +3156,30 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-02 19:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:06:13 +0000"
     },
     "done": true
   },
@@ -3114,6 +3216,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-02 19:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:03:26 +0000"
     },
     "done": true
   },
