@@ -237,3 +237,41 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 19:38:44.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> DAW
 [02May2025 19:39:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzz
 [02May2025 19:40:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzzz
+[02May2025 19:41:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Iron Golem
+[02May2025 19:41:43.733] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 19:41:44.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02May2025 19:41:45.169] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 19:41:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has reached the goal [Chain Death]
+[02May2025 19:41:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Iron Golem
+[02May2025 19:41:53.636] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 19:41:54.768] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 19:42:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Diamonds!]
+[02May2025 19:47:22.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35185, l='ServerLevel[world]', x=-4047.39, y=62.00, z=-1359.61] died, message: 'Villager froze to death'
+[02May2025 19:47:26.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35182, l='ServerLevel[world]', x=-4042.45, y=61.00, z=-1369.57] died, message: 'Nitwit froze to death'
+[02May2025 19:47:26.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35186, l='ServerLevel[world]', x=-4040.57, y=62.00, z=-1354.59] died, message: 'Villager froze to death'
+[02May2025 19:47:34.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35190, l='ServerLevel[world]', x=-4042.47, y=66.00, z=-1390.48] died, message: 'Nitwit froze to death'
+[02May2025 19:47:46.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/35180, l='ServerLevel[world]', x=-4037.61, y=63.00, z=-1385.48] died, message: 'Butcher froze to death'
+[02May2025 19:47:58.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35040, l='ServerLevel[world]', x=-4043.46, y=62.00, z=-1354.62] died, message: 'Villager froze to death'
+[02May2025 19:48:14.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35186, l='ServerLevel[world]', x=-4042.56, y=62.00, z=-1359.56] died, message: 'Villager froze to death'
+[02May2025 19:48:22.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35185, l='ServerLevel[world]', x=-4047.50, y=62.00, z=-1359.50] died, message: 'Villager froze to death'
+[02May2025 19:48:52.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/35180, l='ServerLevel[world]', x=-4042.50, y=65.00, z=-1388.49] died, message: 'Butcher froze to death'
+[02May2025 19:49:04.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35190, l='ServerLevel[world]', x=-4034.45, y=63.00, z=-1378.25] died, message: 'Nitwit froze to death'
+[02May2025 19:49:28.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35186, l='ServerLevel[world]', x=-4042.53, y=63.00, z=-1353.60] died, message: 'Villager froze to death'
+[02May2025 19:49:35.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35208, l='ServerLevel[world]', x=-4040.47, y=62.00, z=-1354.48] died, message: 'Villager froze to death'
+[02May2025 19:49:40.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35185, l='ServerLevel[world]', x=-4047.53, y=62.00, z=-1360.40] died, message: 'Villager froze to death'
+[02May2025 19:49:46.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35040, l='ServerLevel[world]', x=-4047.47, y=62.00, z=-1361.48] died, message: 'Villager froze to death'
+[02May2025 19:49:50.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35189, l='ServerLevel[world]', x=-4043.58, y=66.00, z=-1395.41] died, message: 'Villager froze to death'
+[02May2025 19:50:02.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35009, l='ServerLevel[world]', x=-4057.59, y=63.00, z=-1375.55] died, message: 'Farmer froze to death'
+[02May2025 19:50:09.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [Light as a Rabbit]
+[02May2025 19:53:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Zombie
+[02May2025 19:53:44.321] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[02May2025 19:53:46.107] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 19:54:18.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [The Most Useful Key]
+[02May2025 19:54:32.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has reached the goal [A Fast Comeback]
+[02May2025 19:56:18.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Zombie
+[02May2025 19:56:18.313] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[02May2025 19:56:23.119] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 19:58:17.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37822, l='ServerLevel[world]', x=-4643.30, y=66.00, z=-1410.92] died, message: 'Villager was slain by Zombie'
+[02May2025 19:58:31.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37821, l='ServerLevel[world]', x=-4631.70, y=67.00, z=-1417.53] died, message: 'Villager was slain by Zombie Villager'
+[02May2025 19:59:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [A Seedy Place]
+[02May2025 20:01:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [What a Deal!]
