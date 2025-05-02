@@ -282,3 +282,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 20:10:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was blown up by Creeper
 [02May2025 20:10:44.014] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
 [02May2025 20:10:45.346] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:15:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzz
+[02May2025 20:21:28.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was shot by Skeleton
+[02May2025 20:21:28.515] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[02May2025 20:21:29.698] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
