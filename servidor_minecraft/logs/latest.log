@@ -208,3 +208,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 18:12:51.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:54883] logged in with entity id 689 at (-4695.8718567223195, 69.0, -1407.2711663074308)
 [02May2025 18:12:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
 [02May2025 18:12:54.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[02May2025 18:34:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> zzzzzzzzzzzzzzzz
+[02May2025 18:34:20.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved wrongly! 0.9695086679052228
+[02May2025 18:34:20.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved wrongly! 1.0490132729201023
+[02May2025 18:34:20.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved wrongly! 1.1206016924894775
+[02May2025 18:36:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [What a Deal!]
+[02May2025 18:40:49.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAGO73_5 lost connection: Disconnected
+[02May2025 18:40:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 left the game
