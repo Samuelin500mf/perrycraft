@@ -2681,6 +2681,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-01 10:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-01 10:11:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 10:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-01 10:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-01 10:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-01 10:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 10:36:53 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-01 10:36:55 +0000"
@@ -2696,24 +2738,6 @@
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-01 10:36:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-05-01 10:36:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-01 10:50:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-05-01 10:50:12 +0000"
     },
     "done": true
   },
@@ -2735,15 +2759,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "has_water_bucket": "2025-05-01 10:09:13 +0000"
+      "has_tripwire_hook": "2025-05-01 10:36:55 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-01 10:36:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 10:38:01 +0000"
     },
     "done": true
   },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-05-01 10:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 10:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 10:50:12 +0000"
     },
     "done": true
   },
@@ -2765,27 +2813,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-01 10:50:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-01 10:50:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-05-01 10:36:55 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-05-01 10:36:55 +0000"
     },
     "done": true
   },
@@ -2807,39 +2837,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_log": "2025-05-01 10:36:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-01 10:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-01 10:36:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-05-01 10:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-05-01 10:11:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-05-01 10:28:10 +0000"
+      "has_wood_slab": "2025-05-01 10:50:34 +0000"
     },
     "done": true
   },

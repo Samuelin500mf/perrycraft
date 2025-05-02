@@ -2690,15 +2690,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "coded_trigger": "2025-04-30 21:48:58 +0000"
+      "has_carrot": "2025-04-30 21:41:49 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_battle_hammer": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_copper_ingot": "2025-04-30 21:50:27 +0000"
+      "has_beetroot": "2025-04-30 21:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-30 21:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-30 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 21:42:00 +0000"
     },
     "done": true
   },
@@ -2708,9 +2726,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "has_beetroot": "2025-04-30 21:41:50 +0000"
+      "has_ingredient": "2025-04-30 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-30 21:48:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-30 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-30 21:50:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-30 21:50:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:50:27 +0000"
     },
     "done": true
   },
@@ -2750,12 +2798,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-04-30 21:51:42 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-04-30 21:50:27 +0000"
@@ -2771,12 +2813,6 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-30 21:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-04-30 21:41:50 +0000"
     },
     "done": true
   },
@@ -2819,42 +2855,6 @@
   "spartanweaponry:recipes/copper_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-04-30 21:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-04-30 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-04-30 21:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-30 22:00:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-04-30 21:51:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-04-30 21:50:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-30 21:42:00 +0000"
     },
     "done": true
   },
@@ -2906,18 +2906,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-04-30 22:00:45 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/small_arrow_quiver": {
-    "criteria": {
-      "has_arrow": "2025-04-30 21:54:14 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-04-30 21:50:27 +0000"
@@ -2954,24 +2942,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-04-30 21:49:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-04-30 21:41:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-04-30 21:50:24 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-04-30 21:50:27 +0000"
@@ -2990,12 +2960,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-04-30 21:50:37 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_rapier": {
     "criteria": {
       "has_copper_ingot": "2025-04-30 21:50:27 +0000"
@@ -3008,15 +2972,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-30 21:50:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-30 21:50:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-30 21:51:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-30 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-30 21:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-30 22:00:45 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
-      "has_backpack": "2025-04-30 21:50:24 +0000"
+      "has_gunpowder": "2025-04-30 22:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:00:45 +0000"
     },
     "done": true
   },
