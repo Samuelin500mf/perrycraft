@@ -286,3 +286,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 20:21:28.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was shot by Skeleton
 [02May2025 20:21:28.515] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
 [02May2025 20:21:29.698] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:30:48.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Take Aim, Chaps!]
+[02May2025 20:40:25.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzz
+[02May2025 20:49:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Tip of the Spear]
+[02May2025 20:50:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Iron Golem
+[02May2025 20:50:03.806] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[02May2025 20:50:09.096] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

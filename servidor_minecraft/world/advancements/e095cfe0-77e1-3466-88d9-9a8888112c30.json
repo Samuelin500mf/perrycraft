@@ -686,6 +686,7 @@
       "minecraft:spider": "2025-04-25 15:55:02 +0000",
       "minecraft:creeper": "2025-05-02 19:50:09 +0000",
       "minecraft:cave_spider": "2025-05-02 19:07:47 +0000",
+      "minecraft:enderman": "2025-05-02 20:43:51 +0000",
       "minecraft:zombie": "2025-04-25 15:55:08 +0000"
     },
     "done": false
@@ -2960,6 +2961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-02 20:36:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-05-02 19:41:29 +0000"
@@ -3017,6 +3024,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-02 19:41:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-05-02 20:49:32 +0000"
     },
     "done": true
   },
@@ -3128,9 +3141,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-05-02 20:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-02 19:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-02 20:36:29 +0000"
     },
     "done": true
   },
@@ -3479,6 +3504,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 19:34:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-05-02 20:30:48 +0000"
     },
     "done": true
   },

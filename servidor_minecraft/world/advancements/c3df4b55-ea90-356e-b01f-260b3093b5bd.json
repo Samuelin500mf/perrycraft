@@ -34,6 +34,7 @@
       "minecraft:river": "2025-04-25 16:31:31 +0000",
       "minecraft:stony_shore": "2025-04-25 15:57:05 +0000",
       "minecraft:snowy_plains": "2025-04-25 16:12:04 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 20:23:49 +0000",
       "minecraft:cold_ocean": "2025-04-25 15:56:37 +0000",
       "minecraft:forest": "2025-04-25 16:44:21 +0000",
       "minecraft:frozen_ocean": "2025-04-25 16:17:12 +0000",
@@ -3040,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-02 20:17:44 +0000"
@@ -3052,9 +3059,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-02 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
     },
     "done": true
   },
@@ -3070,6 +3095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-02 20:06:13 +0000"
@@ -3082,9 +3113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-02 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
     },
     "done": true
   },
@@ -3094,9 +3137,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
     },
     "done": true
   },
@@ -3118,9 +3179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-05-02 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
     },
     "done": true
   },
@@ -3148,6 +3221,18 @@
     },
     "done": true
   },
+  "woodenhopper:recipes/redstone/wooden_hopper": {
+    "criteria": {
+      "has_chest": "2025-05-02 20:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-02 20:06:13 +0000"
@@ -3163,6 +3248,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-02 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
     },
     "done": true
   },
@@ -3208,6 +3299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-02 20:03:26 +0000"
@@ -3235,6 +3332,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-02 19:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
     },
     "done": true
   },
@@ -3274,9 +3377,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-02 20:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-02 19:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-02 20:22:53 +0000"
     },
     "done": true
   },
