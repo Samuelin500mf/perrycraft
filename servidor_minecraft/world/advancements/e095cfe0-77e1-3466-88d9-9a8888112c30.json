@@ -2849,6 +2849,12 @@
     },
     "done": true
   },
+  "woodenhopper:recipes/redstone/wooden_hopper": {
+    "criteria": {
+      "has_chest": "2025-05-02 18:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-02 18:36:14 +0000"
