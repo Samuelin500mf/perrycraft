@@ -292,3 +292,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [02May2025 20:50:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Iron Golem
 [02May2025 20:50:03.806] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
 [02May2025 20:50:09.096] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:55:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was blown up by Creeper
+[02May2025 20:55:03.312] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[02May2025 20:55:07.292] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:55:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZ
+[02May2025 20:55:23.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZ
+[02May2025 20:55:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZ
+[02May2025 20:55:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZ
+[02May2025 20:55:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZZ
