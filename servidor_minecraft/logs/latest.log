@@ -1,154 +1,137 @@
-[02May2025 18:10:09.268] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02May2025 18:10:09.274] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[02May2025 18:10:10.663] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02May2025 18:10:10.683] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[02May2025 18:10:10.685] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/perrycraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23131!/
-[02May2025 18:10:10.696] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/perrycraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[02May2025 18:10:10.698] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[02May2025 18:10:10.781] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/perrycraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02May2025 18:10:10.795] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[02May2025 18:10:11.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 18:10:11.378] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 18:10:11.380] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 18:10:11.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 18:10:11.643] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[02May2025 18:10:11.645] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[02May2025 18:10:12.654] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[02May2025 18:10:12.686] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[02May2025 18:10:13.737] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[02May2025 18:10:15.270] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02May2025 18:10:15.385] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02May2025 18:10:17.645] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[02May2025 18:10:31.527] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/perrycraft/servidor_minecraft/defaultconfigs/woodenhopper-server.toml is not correct. Correcting
-[02May2025 18:10:31.530] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Wooden Hopper Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[02May2025 18:10:31.530] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Wooden Hopper Settings.woodenHopperCooldown was corrected from null to its default, 16. 
-[02May2025 18:10:31.531] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Wooden Hopper Settings.woodenHopperPullItemsFromWorldEnabled was corrected from null to its default, true. 
-[02May2025 18:10:31.533] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Wooden Hopper Settings.woodenHopperPullItemsFromInventoriesEnabled was corrected from null to its default, true. 
-[02May2025 18:10:31.735] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[02May2025 18:10:32.632] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[02May2025 18:10:32.635] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[02May2025 18:10:32.636] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[02May2025 18:10:32.898] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02May2025 18:10:32.898] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02May2025 18:10:38.886] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/perrycraft/servidor_minecraft/config/villagersrespawn-common.toml is not correct. Correcting
-[02May2025 18:10:38.886] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villager Respawn Control Values was corrected from null to its default, SimpleCommentedConfig:{}. 
-[02May2025 18:10:38.887] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villager Respawn Control Values.debugLevel was corrected from null to its default, 0. 
-[02May2025 18:10:38.887] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villager Respawn Control Values.respawnHealth was corrected from null to its default, 20. 
-[02May2025 18:10:38.888] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villager Respawn Control Values.respawnXpLoss was corrected from null to its default, true. 
-[02May2025 18:10:38.888] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villager Respawn Control Values.respawnPercentage was corrected from null to its default, 104. 
-[02May2025 18:10:38.891] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villager Respawn Control Values.hardModeZombieDeaths was corrected from null to its default, true. 
-[02May2025 18:10:39.201] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[02May2025 18:10:39.378] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[02May2025 18:10:39.380] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[02May2025 18:10:39.382] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[02May2025 18:10:39.382] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[02May2025 18:10:39.383] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[02May2025 18:10:39.383] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[02May2025 18:10:39.384] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[02May2025 18:10:39.421] [main/INFO] [journeymap/]: Initializing Packet Registries
-[02May2025 18:10:39.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sleeping_bags] Starting version check at https://update.maxhenkel.de/forge/sleeping_bags
-[02May2025 18:10:41.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sleeping_bags] Found status: AHEAD Current: 1.20.1-1.0.9 Target: null
-[02May2025 18:10:41.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[02May2025 18:10:41.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[02May2025 18:10:41.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[02May2025 18:10:41.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[02May2025 18:10:41.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Starting version check at https://api.modrinth.com/updates/egyqODDj/forge_updates.json
-[02May2025 18:10:41.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Found status: UP_TO_DATE Current: 4.0.5m Target: null
-[02May2025 18:10:41.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02May2025 18:10:41.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[02May2025 18:10:41.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [villagersrespawn] Starting version check at https://github.com/mactso/VillagersRespawn/raw/main/update.json
-[02May2025 18:10:42.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [villagersrespawn] Found status: BETA Current: 46.7.0 Target: 46.7.0
-[02May2025 18:10:42.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02May2025 18:10:42.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[02May2025 18:10:44.952] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02May2025 18:10:45.147] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-configlibtxf (version 4.2.7-forge -> 4.2.8-forge)
-Things may not work well.
-[02May2025 18:10:45.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: woodenhopper:wooden_hopper Expected: 1752 Got: 2454
-[02May2025 18:10:45.350] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: woodenhopper:wooden_hopper Expected: 2228 Got: 3575
-[02May2025 18:10:47.316] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/perrycraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
-[02May2025 18:10:47.316] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/perrycraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
-[02May2025 18:10:49.425] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[02May2025 18:10:50.484] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[02May2025 18:10:50.496] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[02May2025 18:10:50.578] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[02May2025 18:10:51.857] [Worker-Main-1/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 10.556973 ms
-[02May2025 18:10:51.950] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[02May2025 18:10:51.951] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[02May2025 18:10:51.976] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[02May2025 18:10:51.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[02May2025 18:10:52.022] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[02May2025 18:10:52.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[02May2025 18:10:52.070] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[02May2025 18:10:52.070] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[02May2025 18:10:52.086] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[02May2025 18:10:52.088] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[02May2025 18:10:52.098] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[02May2025 18:10:52.098] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[02May2025 18:10:52.119] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[02May2025 18:10:52.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[02May2025 18:10:52.120] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[02May2025 18:10:52.121] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[02May2025 18:10:52.132] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[02May2025 18:10:52.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[02May2025 18:10:52.134] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
-[02May2025 18:10:52.153] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[02May2025 18:10:52.154] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
-[02May2025 18:10:52.166] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[02May2025 18:10:52.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[02May2025 18:10:52.167] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[02May2025 18:10:52.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[02May2025 18:10:52.171] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
-[02May2025 18:10:52.177] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[02May2025 18:10:52.177] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[02May2025 18:10:52.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
-[02May2025 18:10:52.198] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[02May2025 18:10:52.199] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[02May2025 18:10:52.206] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[02May2025 18:10:52.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[02May2025 18:10:52.207] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
-[02May2025 18:10:52.221] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
-[02May2025 18:10:52.226] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
-[02May2025 18:10:52.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
-[02May2025 18:10:52.261] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[02May2025 18:10:52.262] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[02May2025 18:10:52.267] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
-[02May2025 18:10:52.271] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[02May2025 18:10:52.272] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[02May2025 18:10:52.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
-[02May2025 18:10:52.291] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[02May2025 18:10:52.291] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[02May2025 18:10:52.299] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[02May2025 18:10:52.300] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[02May2025 18:10:52.302] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[02May2025 18:10:52.303] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
-[02May2025 18:10:52.317] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
-[02May2025 18:10:52.595] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3488 advancements
-[02May2025 18:10:52.610] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[02May2025 18:10:52.619] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[02May2025 18:10:52.621] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 1.801612 ms
-[02May2025 18:10:52.696] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 134 dynamic modifiers and 4 modifier redirects in 73.587234 ms
-[02May2025 18:10:52.705] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 40 modifier tags for 138 modifiers in 9.61955 ms
-[02May2025 18:10:52.708] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 2.546602 ms
-[02May2025 18:10:52.715] [main/INFO] [tconstruct/]: Loaded 43 spilling fluids in 5.86545 ms
-[02May2025 18:10:52.747] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 7.381469 ms
-[02May2025 18:10:52.749] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 1.980386 ms
-[02May2025 18:10:52.778] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 358 stats loaded for 60 materials in 28.100018 ms
-[02May2025 18:10:52.802] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 185 traits loaded for 60 materials in 22.269724 ms
-[02May2025 18:10:52.819] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 16.392862 ms
-[02May2025 18:10:52.834] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 14.08402 ms
-[02May2025 18:10:54.663] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.911932ms
-[02May2025 18:10:54.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02May2025 18:10:54.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02May2025 18:10:54.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02May2025 18:10:54.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02May2025 18:10:55.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02May2025 18:10:55.262] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02May2025 18:10:55.417] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02May2025 18:10:55.419] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02May2025 18:10:55.420] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02May2025 18:10:55.420] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02May2025 18:10:55.439] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedPlayerList/]: Failed to load white-list: 
+[03May2025 21:48:41.417] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03May2025 21:48:41.422] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[03May2025 21:48:43.708] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03May2025 21:48:43.736] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[03May2025 21:48:43.738] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/perrycraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23131!/
+[03May2025 21:48:43.751] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/perrycraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[03May2025 21:48:43.754] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[03May2025 21:48:43.874] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/perrycraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03May2025 21:48:43.889] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[03May2025 21:48:44.809] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03May2025 21:48:44.813] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03May2025 21:48:44.815] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03May2025 21:48:44.816] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/perrycraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03May2025 21:48:45.213] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03May2025 21:48:45.217] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[03May2025 21:48:46.481] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[03May2025 21:48:46.499] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[03May2025 21:48:48.405] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[03May2025 21:48:51.004] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03May2025 21:48:51.138] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03May2025 21:48:54.576] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03May2025 21:49:18.130] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[03May2025 21:49:19.859] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[03May2025 21:49:19.861] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[03May2025 21:49:19.873] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[03May2025 21:49:20.174] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03May2025 21:49:20.180] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03May2025 21:49:31.129] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[03May2025 21:49:31.552] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03May2025 21:49:31.553] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03May2025 21:49:31.554] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[03May2025 21:49:31.555] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[03May2025 21:49:31.556] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[03May2025 21:49:31.557] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03May2025 21:49:31.558] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03May2025 21:49:31.641] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03May2025 21:49:32.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sleeping_bags] Starting version check at https://update.maxhenkel.de/forge/sleeping_bags
+[03May2025 21:49:35.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sleeping_bags] Found status: AHEAD Current: 1.20.1-1.0.9 Target: null
+[03May2025 21:49:35.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03May2025 21:49:35.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
+[03May2025 21:49:35.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03May2025 21:49:35.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[03May2025 21:49:35.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Starting version check at https://api.modrinth.com/updates/egyqODDj/forge_updates.json
+[03May2025 21:49:36.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Found status: UP_TO_DATE Current: 4.0.5m Target: null
+[03May2025 21:49:36.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03May2025 21:49:36.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[03May2025 21:49:36.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [villagersrespawn] Starting version check at https://github.com/mactso/VillagersRespawn/raw/main/update.json
+[03May2025 21:49:36.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [villagersrespawn] Found status: BETA Current: 46.7.0 Target: 46.7.0
+[03May2025 21:49:36.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03May2025 21:49:36.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[03May2025 21:49:40.216] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03May2025 21:49:44.358] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/perrycraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[03May2025 21:49:44.365] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/perrycraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[03May2025 21:49:47.756] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[03May2025 21:49:49.882] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[03May2025 21:49:49.912] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[03May2025 21:49:50.060] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[03May2025 21:49:51.829] [Worker-Main-1/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 15.545502 ms
+[03May2025 21:49:51.987] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[03May2025 21:49:51.989] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[03May2025 21:49:52.028] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[03May2025 21:49:52.031] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[03May2025 21:49:52.084] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[03May2025 21:49:52.086] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[03May2025 21:49:52.142] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[03May2025 21:49:52.143] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[03May2025 21:49:52.174] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[03May2025 21:49:52.176] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[03May2025 21:49:52.188] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[03May2025 21:49:52.188] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[03May2025 21:49:52.229] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[03May2025 21:49:52.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[03May2025 21:49:52.230] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[03May2025 21:49:52.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[03May2025 21:49:52.241] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[03May2025 21:49:52.241] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[03May2025 21:49:52.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[03May2025 21:49:52.272] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[03May2025 21:49:52.273] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[03May2025 21:49:52.285] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[03May2025 21:49:52.286] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[03May2025 21:49:52.286] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[03May2025 21:49:52.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[03May2025 21:49:52.299] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[03May2025 21:49:52.310] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[03May2025 21:49:52.310] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[03May2025 21:49:52.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[03May2025 21:49:52.322] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[03May2025 21:49:52.325] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[03May2025 21:49:52.329] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[03May2025 21:49:52.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[03May2025 21:49:52.335] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[03May2025 21:49:52.352] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[03May2025 21:49:52.358] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[03May2025 21:49:52.385] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[03May2025 21:49:52.423] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[03May2025 21:49:52.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[03May2025 21:49:52.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[03May2025 21:49:52.439] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[03May2025 21:49:52.440] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[03May2025 21:49:52.449] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[03May2025 21:49:52.483] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[03May2025 21:49:52.485] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[03May2025 21:49:52.509] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[03May2025 21:49:52.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[03May2025 21:49:52.511] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[03May2025 21:49:52.512] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[03May2025 21:49:52.535] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
+[03May2025 21:49:52.952] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3488 advancements
+[03May2025 21:49:52.967] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[03May2025 21:49:52.977] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[03May2025 21:49:53.120] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 134 dynamic modifiers and 4 modifier redirects in 139.3141 ms
+[03May2025 21:49:53.136] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 40 modifier tags for 138 modifiers in 15.276727 ms
+[03May2025 21:49:53.138] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 2.803971 ms
+[03May2025 21:49:53.142] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 2.817109 ms
+[03May2025 21:49:53.154] [main/INFO] [tconstruct/]: Loaded 43 spilling fluids in 10.815788 ms
+[03May2025 21:49:53.210] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 16.115547 ms
+[03May2025 21:49:53.212] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 2.01693 ms
+[03May2025 21:49:53.232] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 358 stats loaded for 60 materials in 18.924397 ms
+[03May2025 21:49:53.282] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 185 traits loaded for 60 materials in 47.055206 ms
+[03May2025 21:49:53.327] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 36.796673 ms
+[03May2025 21:49:53.351] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 23.6481 ms
+[03May2025 21:49:56.111] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 9.903912ms
+[03May2025 21:49:56.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03May2025 21:49:56.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03May2025 21:49:56.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03May2025 21:49:56.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03May2025 21:49:56.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03May2025 21:49:57.048] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03May2025 21:49:57.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03May2025 21:49:57.265] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03May2025 21:49:57.266] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03May2025 21:49:57.266] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03May2025 21:49:57.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedPlayerList/]: Failed to load white-list: 
 java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterator()" because "$$1" is null
 	at net.minecraft.server.players.StoredUserList.m_11399_(StoredUserList.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at net.minecraft.server.dedicated.DedicatedPlayerList.m_139578_(DedicatedPlayerList.java:109) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
@@ -157,149 +140,56 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02May2025 18:10:55.447] [Server thread/INFO] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loading default config file from path /workspaces/perrycraft/servidor_minecraft/defaultconfigs/woodenhopper-server.toml
-[02May2025 18:10:55.454] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02May2025 18:10:55.457] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02May2025 18:10:55.458] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02May2025 18:10:56.410] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[02May2025 18:10:56.412] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[02May2025 18:10:56.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02May2025 18:11:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02May2025 18:11:17.253] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.254] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.256] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.363] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.395] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.403] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.422] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.426] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.431] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.453] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:17.995] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:18.467] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:19.512] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:19.513] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:19.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:20.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:20.943] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:21.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:21.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:22.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:22.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:23.449] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:24.084] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 18:11:24.494] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[02May2025 18:11:24.885] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16451 ms
-[02May2025 18:11:24.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.448s)! For help, type "help"
-[02May2025 18:11:25.080] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02May2025 18:11:33.831] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[02May2025 18:11:34.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuelin500mf[/127.62.47.60:59277] logged in with entity id 217 at (-5419.465914168674, 64.0, -918.5356207747453)
-[02May2025 18:11:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf joined the game
-[02May2025 18:11:37.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3918ms or 78 ticks behind
-[02May2025 18:12:51.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:54883] logged in with entity id 689 at (-4695.8718567223195, 69.0, -1407.2711663074308)
-[02May2025 18:12:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
-[02May2025 18:12:54.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
-[02May2025 18:34:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> zzzzzzzzzzzzzzzz
-[02May2025 18:34:20.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved wrongly! 0.9695086679052228
-[02May2025 18:34:20.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved wrongly! 1.0490132729201023
-[02May2025 18:34:20.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved wrongly! 1.1206016924894775
-[02May2025 18:36:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [What a Deal!]
-[02May2025 18:40:49.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAGO73_5 lost connection: Disconnected
-[02May2025 18:40:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 left the game
-[02May2025 19:12:46.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:39369] logged in with entity id 17512 at (-4686.612341416424, 68.0, -1389.9609143252521)
-[02May2025 19:12:46.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
-[02May2025 19:13:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Zombie
-[02May2025 19:13:40.144] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
-[02May2025 19:13:41.379] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 19:16:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was shot by Skeleton
-[02May2025 19:16:29.282] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
-[02May2025 19:16:29.404] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 19:27:29.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[02May2025 19:28:07.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[02May2025 19:28:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[02May2025 19:28:49.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamemode spectator I.A.G.O73_5<--[HERE]
-[02May2025 19:29:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [Blunt-force Trauma]
-[02May2025 19:29:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Spectator Mode
-[02May2025 19:32:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[02May2025 19:32:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GA/gamemode survival IAGO73_5<--[HERE]
-[02May2025 19:32:51.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Survival Mode
-[02May2025 19:37:33.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has reached the goal [Bone Crusher]
-[02May2025 19:37:39.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has reached the goal [Fortuitous Militia]
-[02May2025 19:38:44.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> DAW
-[02May2025 19:39:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzz
-[02May2025 19:40:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzzz
-[02May2025 19:41:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Iron Golem
-[02May2025 19:41:43.733] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
-[02May2025 19:41:44.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[02May2025 19:41:45.169] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 19:41:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has reached the goal [Chain Death]
-[02May2025 19:41:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Iron Golem
-[02May2025 19:41:53.636] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
-[02May2025 19:41:54.768] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 19:42:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Diamonds!]
-[02May2025 19:47:22.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35185, l='ServerLevel[world]', x=-4047.39, y=62.00, z=-1359.61] died, message: 'Villager froze to death'
-[02May2025 19:47:26.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35182, l='ServerLevel[world]', x=-4042.45, y=61.00, z=-1369.57] died, message: 'Nitwit froze to death'
-[02May2025 19:47:26.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35186, l='ServerLevel[world]', x=-4040.57, y=62.00, z=-1354.59] died, message: 'Villager froze to death'
-[02May2025 19:47:34.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35190, l='ServerLevel[world]', x=-4042.47, y=66.00, z=-1390.48] died, message: 'Nitwit froze to death'
-[02May2025 19:47:46.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/35180, l='ServerLevel[world]', x=-4037.61, y=63.00, z=-1385.48] died, message: 'Butcher froze to death'
-[02May2025 19:47:58.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35040, l='ServerLevel[world]', x=-4043.46, y=62.00, z=-1354.62] died, message: 'Villager froze to death'
-[02May2025 19:48:14.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35186, l='ServerLevel[world]', x=-4042.56, y=62.00, z=-1359.56] died, message: 'Villager froze to death'
-[02May2025 19:48:22.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35185, l='ServerLevel[world]', x=-4047.50, y=62.00, z=-1359.50] died, message: 'Villager froze to death'
-[02May2025 19:48:52.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/35180, l='ServerLevel[world]', x=-4042.50, y=65.00, z=-1388.49] died, message: 'Butcher froze to death'
-[02May2025 19:49:04.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35190, l='ServerLevel[world]', x=-4034.45, y=63.00, z=-1378.25] died, message: 'Nitwit froze to death'
-[02May2025 19:49:28.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35186, l='ServerLevel[world]', x=-4042.53, y=63.00, z=-1353.60] died, message: 'Villager froze to death'
-[02May2025 19:49:35.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35208, l='ServerLevel[world]', x=-4040.47, y=62.00, z=-1354.48] died, message: 'Villager froze to death'
-[02May2025 19:49:40.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35185, l='ServerLevel[world]', x=-4047.53, y=62.00, z=-1360.40] died, message: 'Villager froze to death'
-[02May2025 19:49:46.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35040, l='ServerLevel[world]', x=-4047.47, y=62.00, z=-1361.48] died, message: 'Villager froze to death'
-[02May2025 19:49:50.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35189, l='ServerLevel[world]', x=-4043.58, y=66.00, z=-1395.41] died, message: 'Villager froze to death'
-[02May2025 19:50:02.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35009, l='ServerLevel[world]', x=-4057.59, y=63.00, z=-1375.55] died, message: 'Farmer froze to death'
-[02May2025 19:50:09.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [Light as a Rabbit]
-[02May2025 19:53:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Zombie
-[02May2025 19:53:44.321] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
-[02May2025 19:53:46.107] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 19:54:18.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [The Most Useful Key]
-[02May2025 19:54:32.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has reached the goal [A Fast Comeback]
-[02May2025 19:56:18.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Zombie
-[02May2025 19:56:18.313] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
-[02May2025 19:56:23.119] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 19:58:17.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37822, l='ServerLevel[world]', x=-4643.30, y=66.00, z=-1410.92] died, message: 'Villager was slain by Zombie'
-[02May2025 19:58:31.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37821, l='ServerLevel[world]', x=-4631.70, y=67.00, z=-1417.53] died, message: 'Villager was slain by Zombie Villager'
-[02May2025 19:59:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [A Seedy Place]
-[02May2025 20:01:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [What a Deal!]
-[02May2025 20:04:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzz
-[02May2025 20:05:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was shot by Skeleton
-[02May2025 20:05:23.610] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
-[02May2025 20:05:25.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 20:10:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was blown up by Creeper
-[02May2025 20:10:44.014] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
-[02May2025 20:10:45.346] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 20:15:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzz
-[02May2025 20:21:28.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was shot by Skeleton
-[02May2025 20:21:28.515] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
-[02May2025 20:21:29.698] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 20:30:48.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Take Aim, Chaps!]
-[02May2025 20:40:25.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzz
-[02May2025 20:49:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Tip of the Spear]
-[02May2025 20:50:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was slain by Iron Golem
-[02May2025 20:50:03.806] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
-[02May2025 20:50:09.096] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 20:55:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was blown up by Creeper
-[02May2025 20:55:03.312] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
-[02May2025 20:55:07.292] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[02May2025 20:55:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZ
-[02May2025 20:55:23.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZ
-[02May2025 20:55:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZ
-[02May2025 20:55:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZ
-[02May2025 20:55:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZZ
-[02May2025 21:04:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Ol' Betsy]
-[02May2025 21:04:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Take Aim]
-[02May2025 21:06:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzzz
+[03May2025 21:49:57.323] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03May2025 21:49:57.326] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03May2025 21:49:57.328] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03May2025 21:49:57.454] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03May2025 21:49:58.638] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03May2025 21:49:58.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03May2025 21:50:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03May2025 21:50:22.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.472] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.580] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:22.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:23.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:23.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:24.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:24.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:25.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:25.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:26.163] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:26.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:27.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:27.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:28.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:29.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:29.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:29.656] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:50:30.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03May2025 21:50:30.657] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03May2025 21:50:31.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03May2025 21:50:31.618] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13463 ms
+[03May2025 21:50:31.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.315s)! For help, type "help"
+[03May2025 21:50:31.771] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 21:51:04.397] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03May2025 21:51:04.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuelin500mf[/127.160.139.148:53443] logged in with entity id 210 at (-4686.453244291841, 69.0, -1407.6689682563376)
+[03May2025 21:51:05.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf joined the game
+[03May2025 21:51:09.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[03May2025 21:52:29.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:54629] logged in with entity id 942 at (-5442.9525205459295, 63.0, -1018.4234121036111)
+[03May2025 21:52:29.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
+[03May2025 21:52:31.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -5.652828083432723,0.0,8.724463422214967
+[03May2025 21:52:31.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -5.844570072558781,0.0,9.073528908643766
+[03May2025 21:52:31.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.029291191253833,0.0,9.425796842604768
+[03May2025 21:52:31.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.2067288544230905,0.0,9.781241280927361
+[03May2025 21:52:31.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.376739695451761,0.0,10.13978787925953
+[03May2025 21:52:31.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.539278819138417,0.0,10.501328116193918
+[03May2025 21:52:31.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.69438045320112,0.0,10.86573060858882
+[03May2025 21:52:31.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.842143786807355,0.0,11.232849201745239
+[03May2025 21:52:31.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.982719888581414,0.0,11.602529393748227
+[03May2025 21:52:31.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -7.116989324786118,0.0,11.974483408113201
