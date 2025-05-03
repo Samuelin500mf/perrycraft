@@ -193,3 +193,29 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [03May2025 21:52:31.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.842143786807355,0.0,11.232849201745239
 [03May2025 21:52:31.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -6.982719888581414,0.0,11.602529393748227
 [03May2025 21:52:31.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! -7.116989324786118,0.0,11.974483408113201
+[03May2025 21:59:02.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen lost connection: Disconnected
+[03May2025 21:59:02.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
+[03May2025 22:01:04.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheBlackMen[/127.55.193.42:42489] logged in with entity id 5098 at (-5438.012561161641, 67.0, -1006.9680132392037)
+[03May2025 22:01:04.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen joined the game
+[03May2025 22:03:53.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen has made the advancement [Getting an Upgrade]
+[03May2025 22:04:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [A not-so-pointy Stick!]
+[03May2025 22:04:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Swashbuckler]
+[03May2025 22:08:12.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:51885] logged in with entity id 7979 at (-4686.300201845139, 69.0, -1408.5437451115588)
+[03May2025 22:08:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
+[03May2025 22:08:14.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 8.84816657484771,0.0,5.086370765012703
+[03May2025 22:08:14.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 9.22141692981495,0.0,5.218352177609631
+[03May2025 22:08:14.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 9.596757923983205,0.0,5.3439436913547524
+[03May2025 22:08:14.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 9.97406897647852,0.0,5.463250851944281
+[03May2025 22:08:14.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 10.353227155093009,0.0,5.576416838063778
+[03May2025 22:08:14.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 10.734108704096798,0.0,5.683622849458288
+[03May2025 22:08:14.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 11.116592285633487,0.0,5.785073186697105
+[03May2025 22:08:14.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 11.50056042176584,0.0,5.880989332215449
+[03May2025 22:08:14.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 11.885900531544394,0.0,5.971604570632735
+[03May2025 22:08:14.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 12.272505264598294,0.0,6.057162922155612
+[03May2025 22:08:14.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 12.660273445839266,0.0,6.137910526237079
+[03May2025 22:08:14.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 13.049109975752799,0.0,6.214095490653563
+[03May2025 22:08:14.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 13.438925688496965,0.0,6.285967745429616
+[03May2025 22:08:14.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samuelin500mf) moved too quickly! 13.829638073566457,0.0,6.353767432819268
+[03May2025 22:08:14.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[03May2025 22:08:15.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheBlackMen lost connection: Disconnected
+[03May2025 22:08:15.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheBlackMen left the game
