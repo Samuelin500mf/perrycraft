@@ -1217,3 +1217,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [17May2025 21:55:55.393] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
 [17May2025 21:55:56.633] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [17May2025 22:00:26.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 has made the advancement [Take Aim, Chaps!]
+[17May2025 22:09:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf was blown up by Creeper
+[17May2025 22:09:38.544] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[17May2025 22:09:42.769] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17May2025 22:14:21.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAGO73_5 lost connection: Disconnected
+[17May2025 22:14:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 left the game
+[17May2025 22:15:24.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Hot Stuff]
+[17May2025 22:15:46.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf fell from a high place
+[17May2025 22:15:46.629] [Server thread/INFO] [tombstone/]: The player Samuelin500mf has successfully been saved
+[17May2025 22:16:01.120] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17May2025 22:17:28.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:56079] logged in with entity id 27424 at (-4560.919456633564, -36.0, -1131.8762645992308)
+[17May2025 22:17:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
