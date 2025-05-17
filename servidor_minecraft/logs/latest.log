@@ -220,3 +220,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [17May2025 21:09:34.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuelin500mf moved too quickly! 8.464268241327773,1.2491870787446828,-5.591312800163109
 [17May2025 21:09:34.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
 [17May2025 21:10:35.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuelin500mf moved too quickly! 8.475103756986755,0.07672910437692337,-5.504365156701397
+[17May2025 21:12:32.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Piglin Brute
+[17May2025 21:12:32.162] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[17May2025 21:12:34.286] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17May2025 21:14:28.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Piglin
+[17May2025 21:14:28.953] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[17May2025 21:14:30.623] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17May2025 21:14:33.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Who is Cutting Onions?]
+[17May2025 21:15:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf has made the advancement [Where Is The Stone Pen?]
+[17May2025 21:21:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was slain by Piglin Brute
+[17May2025 21:21:03.453] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[17May2025 21:21:05.412] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
