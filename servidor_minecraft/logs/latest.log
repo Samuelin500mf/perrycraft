@@ -1228,3 +1228,15 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [17May2025 22:16:01.120] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [17May2025 22:17:28.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAGO73_5[/127.49.100.150:56079] logged in with entity id 27424 at (-4560.919456633564, -36.0, -1131.8762645992308)
 [17May2025 22:17:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 joined the game
+[17May2025 22:23:51.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was impaled on a stalagmite whilst fighting Skeleton
+[17May2025 22:23:52.006] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[17May2025 22:23:53.494] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17May2025 22:26:03.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Spectator Mode
+[17May2025 22:27:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[17May2025 22:28:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Survival Mode
+[17May2025 22:29:00.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 was shot by Skeleton
+[17May2025 22:29:00.491] [Server thread/INFO] [tombstone/]: The player IAGO73_5 has successfully been saved
+[17May2025 22:29:01.809] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17May2025 22:31:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Spectator Mode
+[17May2025 22:32:22.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Survival Mode
+[17May2025 22:38:33.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28794, l='ServerLevel[world]', x=-4707.05, y=66.50, z=-1366.69] died, message: 'Villager tried to swim in lava'
