@@ -1246,3 +1246,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [17May2025 22:49:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [17May2025 22:49:57.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28794, l='ServerLevel[world]', x=-4672.82, y=63.36, z=-1355.51] died, message: 'Villager tried to swim in lava'
 [17May2025 22:50:46.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28793, l='ServerLevel[world]', x=-4662.10, y=61.90, z=-1353.24] died, message: 'Villager was slain by Zombie'
+[17May2025 22:59:21.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuelin500mf lost connection: Disconnected
+[17May2025 22:59:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf left the game
