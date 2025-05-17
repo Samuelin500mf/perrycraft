@@ -1240,3 +1240,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [17May2025 22:31:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Spectator Mode
 [17May2025 22:32:22.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set IAGO73_5's game mode to Survival Mode
 [17May2025 22:38:33.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28794, l='ServerLevel[world]', x=-4707.05, y=66.50, z=-1366.69] died, message: 'Villager tried to swim in lava'
+[17May2025 22:45:38.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAGO73_5 lost connection: Disconnected
+[17May2025 22:45:38.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 left the game
+[17May2025 22:46:15.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[17May2025 22:49:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[17May2025 22:49:57.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28794, l='ServerLevel[world]', x=-4672.82, y=63.36, z=-1355.51] died, message: 'Villager tried to swim in lava'
+[17May2025 22:50:46.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28793, l='ServerLevel[world]', x=-4662.10, y=61.90, z=-1353.24] died, message: 'Villager was slain by Zombie'
