@@ -211,3 +211,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [31May2025 11:19:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzz
 [31May2025 11:19:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> sleeep
 [31May2025 11:19:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZZZZZZZZZ
+[31May2025 11:41:04.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/266, l='ServerLevel[world]', x=-4662.10, y=61.90, z=-1353.24] died, message: 'Villager was slain by IAGO73_5'
+[31May2025 11:41:12.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/266, l='ServerLevel[world]', x=-4662.10, y=61.90, z=-1353.24] died, message: 'Villager was slain by IAGO73_5'
+[31May2025 11:41:25.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/266, l='ServerLevel[world]', x=-4662.10, y=61.90, z=-1353.24] died, message: 'Villager was slain by IAGO73_5'
+[31May2025 11:42:31.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/266, l='ServerLevel[world]', x=-4662.10, y=61.90, z=-1353.24] died, message: 'Villager was slain by Zombie'
+[31May2025 11:42:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzz
+[31May2025 12:01:28.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAGO73_5 lost connection: Disconnected
+[31May2025 12:01:28.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAGO73_5 left the game
+[31May2025 12:04:55.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuelin500mf lost connection: Disconnected
+[31May2025 12:04:55.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuelin500mf left the game
