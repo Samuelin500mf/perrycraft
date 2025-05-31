@@ -3141,3 +3141,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [31May2025 11:13:16.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 11:13:16.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31May2025 11:14:24.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 11:18:16.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 11:18:16.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 11:19:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> zzzzzzzzzzzzzzz
+[31May2025 11:19:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IAGO73_5> sleeep
+[31May2025 11:19:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuelin500mf> ZZZZZZZZZZZZZZZZZZZZZZZ
+[31May2025 11:23:16.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 11:23:16.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
